@@ -1,1 +1,4 @@
-# 3rdparty-plugins2
+3rdparty-plugins
+================
+
+a collection of closed sourced e2 plugins
